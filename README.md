@@ -1,5 +1,7 @@
 # nextjs-shadcnui-extended
 
+![](/public/preview.png)
+
 ## Additional stuffs
 
 ### Components
