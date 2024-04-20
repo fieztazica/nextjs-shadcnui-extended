@@ -11,7 +11,7 @@
 
 ### Tools for easier life
 - [x] Query/API fetch with [@tanstack/react-query](https://github.com/tanstack/query) and [axios](https://github.com/axios/axios)
-- [_] State management
+- [ ] State management
 
 ## Folder Structure
 
