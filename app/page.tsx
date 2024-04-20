@@ -4,6 +4,7 @@ import SimpleTooltip from '@/components/custom/simple-tooltip'
 import { TypographyH1 } from '@/components/typos/h1'
 import { TypographyInlineCode } from '@/components/typos/inline-code'
 import { TypographyLarge } from '@/components/typos/large'
+import { TypographyLead } from '@/components/typos/lead'
 import { Card } from '@/components/ui/card'
 import Image from 'next/image'
 
@@ -79,10 +80,16 @@ export default function Home() {
                     </div>
                 </Card>
                 <Card>
-                    <div className="h-full p-2 flex justify-center items-center"></div>
+                    <div className="h-full p-2 flex justify-center items-center">
+                        <TypographyInlineCode>
+                            @tanstack/react-query
+                        </TypographyInlineCode>
+                    </div>
                 </Card>
                 <Card>
-                    <div className="h-full p-2 flex justify-center items-center"></div>
+                    <div className="h-full p-2 flex justify-center items-center">
+                        <TypographyLead>Typographies</TypographyLead>
+                    </div>
                 </Card>
             </div>
         </main>
