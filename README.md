@@ -13,7 +13,8 @@
 
 ### Tools for easier life
 - [x] Query/API fetch with [@tanstack/react-query](https://github.com/tanstack/query) and [axios](https://github.com/axios/axios)
-- [ ] State management
+- [x] Global state management with [jotai](https://github.com/pmndrs/jotai)
+- [x] Example table with [react-table](https://github.com/tanstack/table)
 
 ## Folder Structure
 
