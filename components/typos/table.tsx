@@ -25,7 +25,7 @@ export function TableRow({
     )
 }
 
-export function TableHeader({
+export function TableHeaderCell({
     children,
     className,
     ...props
