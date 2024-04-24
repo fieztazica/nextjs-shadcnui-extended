@@ -2,6 +2,20 @@
 
 ![](/public/preview.png)
 
+## Getting started
+
+```bash
+npx create-next-app@latest -e https://github.com/fieztazica/nextjs-shadcnui-extended/tree/master my-app
+
+-- or
+
+yarn create next-app -e https://github.com/fieztazica/nextjs-shadcnui-extended/tree/master my-app
+
+-- or
+
+pnpm create next-app -e https://github.com/fieztazica/nextjs-shadcnui-extended/tree/master my-app
+```
+
 ## Additional stuffs
 
 ### Components
