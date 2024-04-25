@@ -14,6 +14,10 @@ yarn create next-app -e https://github.com/fieztazica/nextjs-shadcnui-extended/t
 -- or
 
 pnpm create next-app -e https://github.com/fieztazica/nextjs-shadcnui-extended/tree/master my-app
+
+-- or
+
+bunx create-next-app -e https://github.com/fieztazica/nextjs-shadcnui-extended/tree/master my-app
 ```
 
 ## Additional stuffs
